@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,900&family=Open+Sans:ital,wght@0,400;1,400;1,800&family=Oswald:wght@700&family=Poppins:wght@100&family=Roboto:wght@100;400&display=swap');
+
+/* Your styles here */
+body {
+    margin: auto;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open sans';
+}
+
+/*HEADER*/
+
+header {
+    text-align: center;
+    background-color: black;
+    margin: 0auto;
+    height: 70px;
+}
+
+img {
+    width: 200px;
+}
+
+/*MAIN*/
+main {
+    text-align: center;
+}
+
+h1 {
+    color: #25a2c3;
+    line-height: 17px;
+}
+
+#banner {
+    padding: 90px;
+    background: url(../images/banner.jpg);
+    background-size: cover;
+}
+
+input {
+    background-color: #f04c2f;
+    padding: 12px;
+    color: white;
+    width: 140px;
+    border-color: #f04c2f;
+    font-family: 'Montserrat';
+}
+
+h2 {
+    color: #25a2c3;
+    line-height: 17px;
+}
+
+#borderImage {
+    border-radius: 90px 90px 90px 90px;
+    width: 200px;
+    margin: 30px;
+}
+
+#content {
+    padding: 120px;
+}
+
+#contentDue {
+    background-color: #e22d0e;
+    padding: 50px;
+}
+
+#titoloTestim {
+    color: white;
+}
+
+#coloreBianco{
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+#colorBianco{
+    color: white;
+}
+
+aside{
+    background-color: white;
+}
+
+#imageCentre{
+    width: 100%;
+}
+
+#boxAside{
+    border: 1px solid black;
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 100px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: center;
+}
+
+/*FOOTER*/
+
+#footerBox{
+    background-color: #25a2c3;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+#biancoFooter{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+#telNumber{
+    text-align: center;
+    color: white;
+}
+
+#mail{
+    text-align: center;
+    color: white;
+}
+
+#address{
+    text-align: center;
+    color: white;
+}
+
+#copyRight{
+    text-align: center;
+    color: white;
+}
+
+#bianco{
+    color: #c8e7f0;
+    font-family: 'OpenSans';
+}
